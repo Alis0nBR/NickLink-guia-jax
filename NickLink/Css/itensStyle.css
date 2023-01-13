@@ -1,0 +1,16 @@
+#itens-quando-buildar {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin: auto;
+    height: 80px;
+    width: 800px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+}
+
+#itens-quando-buildar h1 {
+
+    text-align: center;
+    padding-top: 20px
+}
